@@ -95,7 +95,7 @@ const OutputSpace = styled.div`
 export default function Projects(){
     useTitle("Projects | RS Resume");
 
-    const z="";
+    const z=0;
     const color = useAnswerColor(z);
 
     return(
